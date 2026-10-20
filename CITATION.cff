@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Exact diagonalization, entanglement entropy and finite-temperature Lanczos methods for quantum spin one-half and spin one systems"
+authors:
+  - family-names: Rouxel
+    given-names: Malo
+    affiliation: "CY Cergy Paris Université"
+version: 0.1.0
+date-released: 2026-10-20
+license: MIT
+repository-code: "https://github.com/malorouxel/Exact-Diagonalization-code-for-entanglement-entropy-and-FTLMs-algorithms"
