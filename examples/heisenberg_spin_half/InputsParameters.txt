@@ -1,0 +1,24 @@
+Spin (One or Half)
+Half
+Number of sites N
+12
+ED threshold (sectors smaller than this use exact diagonalization)
+200
+Sz symmetry (Yes or No)
+Yes
+Number of random vectors R
+10
+Lanczos iterations (Conv or a number)
+Conv
+Ground state degeneracy (Unknown or a number)
+Unknown
+Results (any of E0 GS dege Entropy SFTLM RFTLM OFTLM)
+E0 GS dege Entropy SFTLM
+Bipartition size for Entropy (first sites of the chain)
+6
+Output folder
+Heisenberg
+log10(Tmin) log10(Tmax) number of temperatures
+-2 2 200
+Seed (Random or a number)
+2024
